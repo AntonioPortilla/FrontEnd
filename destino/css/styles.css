@@ -1,0 +1,8 @@
+body{
+	color:grey;
+	font-family: arial;
+}
+.contenedor{
+	border: 5px solid cyan;
+	color: purple !important;
+}
